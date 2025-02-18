@@ -1,3 +1,5 @@
+# author: Tonderayi K Tafirenyika 
+
 import tkinter as tk
 import random
 import mysql.connector
