@@ -1,0 +1,13 @@
+Time Spent on Project:
+Date	Time Spent (hours)	Description of Work
+2025-02-12	1.5	Discussed project requirements with tutor and brainstormed features
+2025-02-12	2.0	Researched Rock, Paper, Scissors game logic and AI algorithms online
+2025-02-13	3.0	Designed the GUI layout for the game using mock-ups and diagrams
+2025-02-13	2.5	Wrote the core game logic functions for player vs computer interactions
+2025-02-14	1.0	Implemented MySQL database connection and Firebase saving functionality
+2025-02-14	2.0	Wrote unit tests for the AI, game logic, and database interactions
+2025-02-15	1.5	Debugged the database connection and fixed issues with saving results
+2025-02-15	1.0	Wrote additional tests for edge cases and improved test coverage
+2025-02-16	1.0	Reviewed the entire code and made final adjustments to ensure functionality
+2025-02-17	2.0	Added functionality for better AI prediction and improved game logic
+2025-02-18	1.5	Worked on finalizing the project and preparing submission
